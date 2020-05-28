@@ -6,3 +6,4 @@ Description of Robot:
       -Using its sensors to detect path
       -Dance Mode:  where the robot car plays the song "Africa" by Toto while dancing(spinning)
       -Equiped with LEDs
+ 
